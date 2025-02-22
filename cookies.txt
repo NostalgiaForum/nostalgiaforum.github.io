@@ -1,0 +1,27 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.nostalgiaforum.xyz	TRUE	/	FALSE	1999999999	xf_csrf	T_8J3W3QxbsYcfGN
+www.nostalgiaforum.xyz	TRUE	/	FALSE	1999999999	xf_session	n6190SKT-X7Qfu1dQhbybpWPy1dp_xJs
+www.nostalgiaforum.xyz	TRUE	/	FALSE	1999999999	xf_style_id	29
+www.nostalgiaforum.xyz	TRUE	/	FALSE	1999999999	xf_language_id	5
+.discordapp.com	TRUE	/	FALSE	1999999999	_cfuvid	Mv_lz3eBc2T9Ur623HgnzjplfKSNGQXM67A3lbuZurI-1740124533810-0.0.1.1-604800000
+www.dropbox.com	TRUE	/	FALSE	1999999999	gvc	MjY0NzAyNzIzMTQ1MjEyNjMwMTQ0OTMzMDQzNjU1MDE4ODExMjg1
+dropbox.com	TRUE	/	FALSE	1999999999	t	Pfh46J3vt_fzWfXom4spRD0c
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-js_csrf	Pfh46J3vt_fzWfXom4spRD0c
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-ss	3W8WkDM5E8
+dropbox.com	TRUE	/	FALSE	1999999999	locale	en
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-logged-out-session	ChDZKpPrYrSq2hwhR+bomRj%2FEJzk4L0GGi5BTVh2eVdzVC1hTGVXWkN6Q243OTdvVlZBM1BzWlpRZnNjSml2VTZ6bDBnYVdB
+www.dropbox.com	TRUE	/	FALSE	1999999999	SameSite	None
+.discordapp.net	TRUE	/	FALSE	1999999999	__cfruid	67743541d6be38b27b75542ac3667cd11b51565d-1740124816
+.discordapp.net	TRUE	/	FALSE	1999999999	_cfuvid	y0XklI0PQAuPccJadHddd4wNa.Yx4.eX1yX75jHPqpk-1740124816889-0.0.1.1-604800000
+media.discordapp.net	TRUE	/	FALSE	1999999999	SameSite	None
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	WWCOBepkkIeDPRwBqLQrVKWvsTOM%2Bu7dJ%2F5mXMLK6RxL3hFZOCWYTXJEUZD8s6EH9HcR9D3xFrBORCqKKLYUxeCzujCgVGAnid1f5OzHlzPzLYUDWQqbVi0Is1XwiWXn2PUjMfN0a1e7inJpCZFRf0Cx%2BHRr4VOiVfN%2FbgKS%2B1x475iH2yJVXPpJ1Ttla%2B%2FvUUjvTlHYGCQS9HbZp8gYs6MVRu0ZA7BlS8hI0df5htR04jtaQ%2BskN%2Bf267owcppAI578zVXHJr2ktx91qIKWQA%3D%3D--ZEEahTsKvXgiMTvj--2XvflurBRHnt%2FZYs5DK2Rw%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.990400018.1740125713
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.mediafire.com	TRUE	/	FALSE	1999999999	ukey	y3sqpt7n9rxnmlhuz1mkm40shyim79yk
+.mediafire.com	TRUE	/	FALSE	1999999999	__cf_bm	AVosQxkfLDPwB8iVFLs5auYjEmAGzSsakQXTm2NKyr0-1740125878-1.0.1.1-aMwK.JmZop1tsraiCiLmlnJ4FVI6Pnin9bvAyObIPGL97N1zITWKHBfaPyKhUhMwhZqXD2YDbIJ3exY9SKtWqQ
+www.mediafire.com	TRUE	/	FALSE	1999999999	SameSite	None
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	jBwMKXVMraEY0b8NjsqxhPUFjs1j9R7bhxPMabfEOHo-1740132912-1.0.1.1-HpysgjlMFkwyQF4qhR8lIbhvVQphXNHGsY2pFP05Lyg2kOEfWs4ej6hjetemVUO2IpOkJ3cv4zCD0O1kBosz2w
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+

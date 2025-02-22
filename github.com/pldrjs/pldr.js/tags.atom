@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/pldrjs/pldr.js/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/pldrjs/pldr.js/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/pldrjs/pldr.js/releases.atom"/>
+  <title>Tags from pldr.js</title>
+  <updated>2016-08-20T12:01:25Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/64347535/v1.2.0</id>
+    <updated>2016-08-23T14:39:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pldrjs/pldr.js/releases/tag/v1.2.0"/>
+    <title>pldr.js 1.2 + 160823 핫스팟 패치</title>
+    <content></content>
+    <author>
+      <name>HelloWorld017</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3919433?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/64347535/v1.1.0</id>
+    <updated>2016-08-12T02:58:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pldrjs/pldr.js/releases/tag/v1.1.0"/>
+    <title>pldr.js 1.1.0</title>
+    <content></content>
+    <author>
+      <name>HelloWorld017</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3919433?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/64347535/v1.0</id>
+    <updated>2016-08-10T10:10:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pldrjs/pldr.js/releases/tag/v1.0"/>
+    <title>pldr.js 1.0</title>
+    <content></content>
+    <author>
+      <name>HelloWorld017</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3919433?s=60&amp;v=4"/>
+  </entry>
+</feed>

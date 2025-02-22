@@ -1,0 +1,1 @@
+ModPE.overrideTexture("images/terrain-atlas.tga","http://minecraft-pe.clan.su/terrain-atlas2.tga")
